@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Rajraval-2345/Rajraval-2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--## 👋 Hi, I’m Raj Rawal  
 
-Here are some ideas to get you started:
+🚀 Computer Science Postgraduate | Web Developer  
+💡 Building real-world projects & learning modern tech  
+🧠 Focused on clean UI, functionality & performance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+**Frontend:** HTML • CSS • JavaScript  
+**Programming:** C++ • Python  
+**Tools:** Git • GitHub • VS Code  
+
+---
+
+### 🌟 Projects
+🔹 SkyCityByPoonamDeveloper – Real Estate Website  
+🔹 Grocery-App – Shopping Web App  
+🔹 Plant-App – Plant Management App  
+🔹 Recipe-App – Food Recipe Explorer  
+
+---
+
+📫 **Connect with me**  
+📧 Email: yourmail@gmail.com  
+🔗 LinkedIn: your-link
+
